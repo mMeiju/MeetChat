@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "811619933554",
+    "firebase_url": "https://meet-chat-d746b.firebaseio.com",
+    "project_id": "meet-chat-d746b",
+    "storage_bucket": "meet-chat-d746b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811619933554:android:1a12c3ab71fc63a7",
+        "android_client_info": {
+          "package_name": "com.example.meiju.meetchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811619933554-ktdc3r8m552s9e9dtkg2j48er2nj0c48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meiju.meetchat",
+            "certificate_hash": "4876b734173e8d0bf5f94a673495a4503d00e856"
+          }
+        },
+        {
+          "client_id": "811619933554-44ook8rn8k1359got3epdru5tka67bsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDon3Lekp0KxYrbdF1NmouCgW8M1I3Xd1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811619933554-44ook8rn8k1359got3epdru5tka67bsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
